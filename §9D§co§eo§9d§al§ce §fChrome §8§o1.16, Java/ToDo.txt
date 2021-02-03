@@ -1,0 +1,2 @@
+Make backgrounds of itemslots same colour as seen in textures/gui/inventory/brewing_stand.png
+Make 'C's in 'SHORTCUTS' angular
