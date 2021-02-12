@@ -3,7 +3,7 @@
 
 ## Info
  Here you can download the latest (alpha) version of the Doodle Chrome Texture Pack with files for editing, like gimp or aseprite files.
- FILES NOT CLEANED UP! Also contains less important files!
+ FILES NOT CLEANED UP! Also contains less important files! You can download the [clean version on Planet Minecraft](https://www.planetminecraft.com/texture-pack/doodle-chrome/).
  
  ≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈
  
